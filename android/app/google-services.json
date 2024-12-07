@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744256017872",
+    "project_id": "instaflurt-9038",
+    "storage_bucket": "instaflurt-9038.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744256017872:android:64a4ed465723873b3cd5d5",
+        "android_client_info": {
+          "package_name": "com.example.instaflurt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5UMBiQxQfasHjRPq16lQfN71r9zYW8mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
